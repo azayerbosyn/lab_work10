@@ -13,7 +13,7 @@ namespace lab10.Controllers
             return View();
         }
 
-        Person people = new Person();
+        public static Person people = new Person();
         public string value;
         [HttpPost]
         public IActionResult Index(string name, string data, string group,string ids)
@@ -58,9 +58,5 @@ namespace lab10.Controllers
               .Select(s => s[random.Next(s.Length)]).ToArray());
         }
 
-        public IActionResult ShowMessage()
-        {
-            return View();
-        }
     }
 }
