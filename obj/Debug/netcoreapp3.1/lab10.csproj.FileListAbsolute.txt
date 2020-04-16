@@ -198,7 +198,6 @@
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/lab10.TagHelpers.output.cache
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/lab10.RazorCoreGenerate.cache
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/Razor/Views/Hello/index.cshtml.g.cs
-/Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/Razor/Views/Shared/ShowMessage.cshtml.g.cs
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/lab10.RazorTargetAssemblyInfo.cache
@@ -210,3 +209,4 @@
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/lab10.dll
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/lab10.pdb
 /Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/lab10.genruntimeconfig.cache
+/Users/erbosyn75/Downloads/lab10/lab10/obj/Debug/netcoreapp3.1/Razor/Views/Hello/ShowMessage.cshtml.g.cs
